@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreasdarsa
 - 📚 Student of the Computer Science Department of Aristotle University of Thessaloniki
 - 👀 I’m interested in Data Science and Machine Learning
-- 📫 How to reach me: email andreasdarsaklis9@gmail.com
+- 📫 How to reach me: **email** andreasdarsaklis9@gmail.com, **LinkedIn** linkedin.com/in/ανδρέας-δαρσακλής-741024368/
 - ⚡ Fun fact: JavaScript doesn't suck (said no one ever)
 
 <!---
