@@ -9,4 +9,4 @@
 andreasdarsa/andreasdarsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=andreas_darsa&theme=light)
+![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=andreas_darsa&show_icons=true&theme=transparent&token=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)
