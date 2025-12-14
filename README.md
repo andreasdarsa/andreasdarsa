@@ -10,4 +10,4 @@ andreasdarsa/andreasdarsa is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <img alt="mystats" src="https://github-readme-stats.vercel.app/api?username=andreasdarsa"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreasdarsa)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasdarsa&layout=compact"/>
