@@ -8,5 +8,5 @@
 andreasdarsa/andreasdarsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img alt="mystats" src="https://github-readme-stats.vercel.app/api?username=andreasdarsa"/>
-<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasdarsa&layout=compact"/>
+<img alt="mystats" src="https://github-readme-stats.vercel.app/api?username=andreasdarsa&count_private=true&cache_seconds=86400"/>
+<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasdarsa&layout=compact&count_private=true&cache_seconds=86400"/>
