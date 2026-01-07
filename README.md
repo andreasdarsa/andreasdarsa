@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <img alt="mystats" src="https://github-readme-stats-taupe-seven-23.vercel.app/api?username=andreasdarsa&count_private=true&cache_seconds=86400&v=1"/>
 <img alt="top-langs" src="https://github-readme-stats-taupe-seven-23.vercel.app/api/top-langs/?username=andreasdarsa&layout=compact&count_private=true&v=1"/>
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=andreasdarsa&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
