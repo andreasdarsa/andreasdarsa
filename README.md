@@ -8,4 +8,4 @@ andreasdarsa/andreasdarsa is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <img alt="my-stats" src="https://github-readme-stats-taupe-seven-23.vercel.app/api?username=andreasdarsa&count_private=true&cache_seconds=10000&v=1"/>
-<img alt="top-langs" src="https://github-readme-stats-taupe-seven-23.vercel.app/api/top-langs/?username=andreasdarsa&layout=compact&count_private=true&v=2&hide=html,css"/>
+<img alt="top-langs" src="https://github-readme-stats-taupe-seven-23.vercel.app/api/top-langs/?username=andreasdarsa&layout=compact&count_private=true&v=1&hide=html,css"/>
