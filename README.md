@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreasdarsa
-- 📚 I study **Computer Science** at the Aristotle University of Thessaloniki
+- 📚 I have studied **Computer Science** at the Aristotle University of Thessaloniki
 - 👀 I’m mainly interested in **Data Science** and **Machine Learning**
 - 📫 How to reach me: **email** andreasdarsaklis9@gmail.com
 
